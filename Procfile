@@ -1,1 +1,1 @@
-web: gunicorn prueba-project-flask.wsgi
+web: gunicorn prueba-project-flask.wsgi app:app
