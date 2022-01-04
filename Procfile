@@ -1,0 +1,1 @@
+web: gunicorn prueba-project-flask.wsgi
